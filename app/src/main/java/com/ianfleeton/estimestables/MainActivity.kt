@@ -1,4 +1,4 @@
-package com.example.estimestables
+package com.ianfleeton.estimestables
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

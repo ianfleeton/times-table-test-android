@@ -1,4 +1,4 @@
-package com.example.estimestables
+package com.ianfleeton.estimestables
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
