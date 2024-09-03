@@ -1,4 +1,4 @@
-package com.ianfleeton.estimestables
+package com.ianfleeton.estimestables2
 
 import org.junit.Test
 

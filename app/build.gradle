@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.ianfleeton.estimestables"
+        applicationId "com.ianfleeton.estimestables2"
         minSdk 23
         targetSdk 31
         versionCode 2
@@ -29,7 +29,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'com.ianfleeton.estimestables'
+    namespace 'com.ianfleeton.estimestables2'
 }
 
 dependencies {
